@@ -1968,10 +1968,15 @@
     "@typescript-eslint/types" "4.24.0"
     "@typescript-eslint/visitor-keys" "4.24.0"
 
-"@typescript-eslint/types@4.24.0", "@typescript-eslint/types@^4.21.0":
+"@typescript-eslint/types@4.24.0":
   version "4.24.0"
   resolved "https://registry.yarnpkg.com/@typescript-eslint/types/-/types-4.24.0.tgz#6d0cca2048cbda4e265e0c4db9c2a62aaad8228c"
   integrity sha512-tkZUBgDQKdvfs8L47LaqxojKDE+mIUmOzdz7r+u+U54l3GDkTpEbQ1Jp3cNqqAU9vMUCBA1fitsIhm7yN0vx9Q==
+
+"@typescript-eslint/types@^4.21.0":
+  version "4.26.1"
+  resolved "https://registry.yarnpkg.com/@typescript-eslint/types/-/types-4.26.1.tgz#9e7c523f73c34b04a765e4167ca5650436ef1d38"
+  integrity sha512-STyMPxR3cS+LaNvS8yK15rb8Y0iL0tFXq0uyl6gY45glyI7w0CsyqyEXl/Fa0JlQy+pVANeK3sbwPneCbWE7yg==
 
 "@typescript-eslint/typescript-estree@4.24.0":
   version "4.24.0"
